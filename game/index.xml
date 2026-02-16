@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on Harsh Borana</title>
-    <link>/</link>
-    <description>Recent content in HOME on Harsh Borana</description>
+    <title>Games on Harsh Borana</title>
+    <link>/game/</link>
+    <description>Recent content in Games on Harsh Borana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="/game/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>day 1</title>
@@ -26,16 +26,6 @@
       
       <guid>/game/game-planning/</guid>
       <description>&lt;p&gt;tags: [&amp;#34;c&amp;#34;, &amp;#34;programming&amp;#34;, &amp;#34;game&amp;#34;]&lt;/p&gt;&#xA;&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;planning of project&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;&#xA;&lt;h3 id=&#34;headline-2&#34;&gt;&#xA;game design&#xA;&lt;/h3&gt;&#xA;&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;&#xA;&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-4&#34;&gt;&#xA;&lt;h4 id=&#34;headline-3&#34;&gt;&#xA;how game works&#xA;&lt;/h4&gt;&#xA;&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-4&#34;&gt;&#xA;&lt;p&gt;i plan to make game where its mostly inspired by stardew valley world and roadwarden mechanics,&#xA;if youre unfamiilar which this its just a visual novel type game where there little more freedom then usual&#xA;amount of freedom is completely based on steariotype and i have never played any visual novel games&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>/posts/post/</link>
-      <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
-      
-      <guid>/posts/post/</guid>
-      <description>This is test post to cheak if everything is working</description>
       
     </item>
     
